@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Added files
+*.pdf
+googlebooks-eng-all-2gram-20120701-vi
+googlebooks-eng-all-1gram-20120701-v
+metaphor-env/
+xml_files/
+test_xml_files/
+virus_text_files/
+
 # Distribution / packaging
 .Python
 build/
