@@ -13,8 +13,8 @@ stopwords = ['a','able','about','across','after','all','almost','also','am','amo
 with open("googlebooks-eng-all-2gram-20120701-vi", "r") as f:
 	array = []
 	for line in f:
-		if line.startswith("virus_NOUN") or line.startswith("Virus_NOUN") or line.startswith("virus_ADJ") or line.startswith("Virus_ADJ"):
-		# if line.startswith("virus") or line.startswith("Virus"):
+		# if line.startswith("virus_NOUN") or line.startswith("Virus_NOUN") or line.startswith("virus_ADJ") or line.startswith("Virus_ADJ"):
+		if line.startswith("virus") or line.startswith("Virus"):
 			match = re.match("(\S+)\s(\S+)\\s(\d+)\s(\d+)\s(\d+)", line)
 
 			main_word = match.group(1)

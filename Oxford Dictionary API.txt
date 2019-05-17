@@ -1,0 +1,3 @@
+Oxford Dictionary API
+API id: 1ed9cb40
+API key: 8da93db3cf0b498826a3768e850377e9

@@ -1,0 +1,913 @@
+1658 []
+
+
+1668 []
+
+
+1677 [('pro', 2)]
+
+
+1682 [('spreads', 4)]
+
+
+1683 []
+
+
+1688 []
+
+
+1696 []
+
+
+1698 []
+
+
+1701 []
+
+
+1702 []
+
+
+1703 []
+
+
+1704 []
+
+
+1706 []
+
+
+1707 []
+
+
+1708 []
+
+
+1709 []
+
+
+1710 []
+
+
+1711 []
+
+
+1712 []
+
+
+1715 []
+
+
+1716 []
+
+
+1718 [('more', 4)]
+
+
+1720 []
+
+
+1721 []
+
+
+1724 []
+
+
+1725 []
+
+
+1726 []
+
+
+1727 []
+
+
+1728 [('remains', 4), ('gets', 4), ('getting', 4), ('enters', 4)]
+
+
+1729 []
+
+
+1730 []
+
+
+1731 []
+
+
+1732 []
+
+
+1734 []
+
+
+1736 [('undergoes', 4), ('suum', 2)]
+
+
+1737 []
+
+
+1738 []
+
+
+1739 []
+
+
+1740 []
+
+
+1741 []
+
+
+1742 []
+
+
+1743 [('diffuses', 4)]
+
+
+1745 [('habent', 4)]
+
+
+1746 [('diffuses', 4), ('diseases', 4), ('-_.', 2), ('-', 2)]
+
+
+1747 [('habent', 4)]
+
+
+1748 []
+
+
+1749 []
+
+
+1750 [(':_.', 2), (':', 2)]
+
+
+1751 [('Munditiae', 2)]
+
+
+1752 [('habent', 4), ('Munditiae', 2)]
+
+
+1753 []
+
+
+1754 [('through', 4), ('-_.', 2), ('-', 2)]
+
+
+1755 [(':_.', 2), (':', 2)]
+
+
+1756 [('remains', 4), ('Virus', 4)]
+
+
+1757 [('through', 4), ('*_NOUN', 2), ('*', 2)]
+
+
+1758 [('more', 4)]
+
+
+1759 [('*_X', 2), ('*', 2)]
+
+
+1760 [('more', 4)]
+
+
+1761 []
+
+
+1762 [('habent', 4)]
+
+
+1764 []
+
+
+1765 [('habent', 4), ("'s", 2), ("'s_PRT", 2)]
+
+
+1766 [('Munditiae', 2)]
+
+
+1767 [('having', 4), ('habent', 4), ('-_.', 2), ("'s", 2), ('-', 2), ("'s_PRT", 2)]
+
+
+1768 [('along', 4), ('through', 4), ('*_NOUN', 2), ('*', 2)]
+
+
+1769 []
+
+
+1770 [('upon', 4), ('produces', 4)]
+
+
+1771 []
+
+
+1772 [('still', 4), ('ab', 4), ('inactive', 4), ('before', 4), ('consists', 4), ('evidently', 4), ('alone', 4), ('j', 2), ('-_.', 2), ('-', 2)]
+
+
+1773 [('remaining', 4), ('habent', 4), ('floating', 4)]
+
+
+1774 [('having', 4)]
+
+
+1775 [('taken', 4), ('producing', 4), ('*_NOUN', 2), ("'s", 2), ('*', 2), ("'s_PRT", 2)]
+
+
+1776 [('having', 4), ('stimulate', 4), ('peculiar', 4), ('d', 4), ('attacks', 4), ('meets', 4), ('Munditiae', 2)]
+
+
+1777 [('quite', 4), ('peculiar', 4), ('*', 2), ('*_NOUN', 2)]
+
+
+1778 [('usually', 4), ('d', 4), ('itself', 4)]
+
+
+1779 [('fixes', 4), ('acts', 4), ('never', 4), ('being', 4), ('passes', 4), ('affects', 4), ('having', 4), ('contaminates', 4), ('y', 4), ('retains', 4)]
+
+
+1780 [('diffuses', 4), ('pass', 4), ('along', 4), ('passes', 4), (')_.', 2), (')', 2)]
+
+
+1781 [('habent', 4), ('--', 2), ('-_.', 2), ('j', 2), (')', 2), (')_.', 2), ('--_.', 2), ('-', 2)]
+
+
+1782 [('infecting', 4), ('communicated', 4), ('producing', 4)]
+
+
+1783 [('having', 4), ('adheres', 4), ('being', 4), ('peculiar', 4), ('possesses', 4)]
+
+
+1784 [('acting', 4), ('acts', 4), ('propagates', 4), ('infecting', 4), ('being', 4), ('peculiar', 4), ('faster', 4), ('capable', 4)]
+
+
+1785 [('habent', 4), ('obtains', 4), ('bearing', 4), ('enters', 4), ('takes', 4), ('attacks', 4), ('"_.', 2), ('"', 2), ('*', 2), ('*_X', 2)]
+
+
+1786 [('still', 4), ('gone', 4), ('lurking', 4), ('seems', 4), ('absorbed', 4), ('virus', 4), ('affecting', 4), ('being', 4), ('forms', 4), ('formed', 4)]
+
+
+1787 [('remain', 4), ('immediately', 4), ('naturally', 4), ('depends', 4), ('seems', 4), ('capable', 4), ('itself', 4), ('though', 4), ('during', 4), ('continues', 4)]
+
+
+1788 [('generally', 4), ('without', 4), ('producing', 4), ("'s_PRT", 2), ("'s", 2)]
+
+
+1789 [('spreads', 4), ('being', 4), ('more', 4), ('"_.', 2), ('"', 2)]
+
+
+1790 [('forms', 4), ('--', 2), ('suum', 2), ('--_.', 2)]
+
+
+1791 [('immediately', 4), ('very', 4), ('before', 4), ('attacks', 4), ('itself', 4), ('j', 2)]
+
+
+1792 [('produces', 8), ('combined', 4), ('acts', 4), ('upon', 4), ('remains', 4), ('changes', 4), ('left', 4), ('attacks', 4), ('alone', 4), ("'s", 2)]
+
+
+1793 [('having', 8), ('still', 4), ('fixes', 4), ('passing', 4), ('seems', 4), ('upon', 4), ('entering', 4), ('peculiar', 4), ('deposited', 4), ('proves', 4)]
+
+
+1794 [("'s", 2), ("'s_PRT", 2)]
+
+
+1795 [('fixed', 4), ('enters', 4), ('seems', 4), ('differs', 4)]
+
+
+1796 [('immediately', 4), ('having', 4), ('being', 4), ('out', 4), ('before', 4)]
+
+
+1797 [('begins', 4), ('acts', 4), ('taken', 4), ('contains', 4), ('deposited', 4), ('attacks', 4), ('produces', 4), ('*', 2), ('*_NOUN', 2)]
+
+
+1798 [(':_.', 4), ('operates', 4), ('acted', 4), ('under', 4), ('differently', 4), ('peculiar', 4), (':', 4), ('acting', 4), ('*', 2), ('"_.', 2)]
+
+
+1799 [('thus', 4), ('itself', 4), ('upon', 4), ('brought', 4), ('without', 4), ('having', 4), ('generated', 4), ('extended', 4), ('seemed', 4), ('enters', 4)]
+
+
+1800 [('virus', 4), ('thus', 4), ('fail', 4), ('upon', 4), ('itself', 4), ('more', 4), ('differently', 4), ('acted', 4), ('carried', 4), ('seemed', 4)]
+
+
+1801 [('enters', 8), ('newly', 4), ('immediately', 4), ('thus', 4), ('itself', 4), ('acted', 4), ('upon', 4), ('differently', 4), ('introduced', 4), ('having', 4)]
+
+
+1802 [('taken', 12), ('newly', 4), ('generally', 4), ('thus', 4), ('secreted', 4), ('upon', 4), ('produced', 4), ('inoculation', 4), ('bv', 4), ('keep', 4)]
+
+
+1803 [('taken', 8), ('thus', 4), ('throughout', 4), ('remains', 4), ('produced', 4), ('secreted', 4), ('two', 4), ('loses', 4), ('become', 4), ('habent', 4)]
+
+
+1804 [('diluted', 4), ('newly', 4), ('ab', 4), ('never', 4), ('remains', 4), ('secreted', 4), ('affect', 4), ('peculiar', 4), ('introduced', 4), ('begins', 4)]
+
+
+1805 [('disseminated', 4), ('seldom', 4), ('itself', 4), ('having', 4), ('lodged', 4), ('P', 4), ('failed', 4), ('taken', 4), ('ab', 4), ('pestiferum', 2)]
+
+
+1806 [('taken', 8), ('habent', 4), ('wherever', 4), ('upon', 4), ('preserved', 4), ('loses', 4), ('remained', 4), ('being', 4), ('-_.', 2), ('*', 2)]
+
+
+1807 [('immediately', 4), ('passes', 4), ('escapes', 4), ('contained', 4), ('without', 4), ('attacks', 4), ('beyond', 4), ('having', 4), ('more', 4), ('still', 4)]
+
+
+1808 [('penetrated', 4), ('upon', 4), ('itself', 4), ('produced', 4)]
+
+
+1809 [('specific', 4), ('through', 4), ('capable', 4), (')', 2), (')_.', 2)]
+
+
+1810 [('immediately', 4), ('thus', 4), ('suppressed', 4), ('upon', 4), ('during', 4), ('appeared', 4), ('employed', 4), ('entirely', 4), ('having', 4), ('communicated', 4)]
+
+
+1811 [('still', 4), ('capable', 4), ('upon', 4), ('remains', 4), ('appeared', 4), ('suppressed', 4), ('whose', 4), ('habe', 4), ('having', 4), ('entirely', 4)]
+
+
+1812 [('induces', 4), ('upon', 4), ('induce', 4), ('acts', 4), ('having', 4), ('towards', 4), ('continue', 4), ('being', 4), ('destroys', 4), ('enters', 4)]
+
+
+1813 [('made', 4), ('capable', 4), ('during', 4), ('existed', 4), ('having', 4), ('specific', 4), ('communicated', 4), ('placed', 4), ('pre', 4), ('being', 4)]
+
+
+1814 [('emanating', 4), ('made', 4), ('undergoes', 4), ('continues', 4), ('appeared', 4), ('acts', 4), ('appears', 4), ('introduced', 4), ('absorbed', 4), ('totally', 4)]
+
+
+1815 [('ab', 4), ('through', 4), ('capable', 4), ('remains', 4), ('secreted', 4), ('de', 4), ('*', 2), ('*_X', 2)]
+
+
+1816 [('par', 4), ('habent', 4), ('passing', 4), ('whatever', 4), ('becomes', 4), ('produced', 4), ('mixed', 4), ('f', 4), ('lurking', 4), (':_.', 2)]
+
+
+1817 [('applied', 4), ('remains', 4), ('produced', 4), ('floating', 4), ('attacks', 4), ('introduced', 4), ('begins', 4), ('rapidly', 4), ('conveyed', 4), ('descended', 4)]
+
+
+1818 [('habent', 4), ('secreted', 4), ('exactly', 4), ('conveyed', 4), ('mixed', 4), ('having', 4), ('through', 4), ('over', 4), ('ab', 4), ("'_PRT", 2)]
+
+
+1819 [('itself', 8), ('acts', 6), ('happens', 4), ('resides', 4), ('combined', 4), ('latent', 4), ('without', 4), ('introduced', 4), ('having', 4), ('affects', 4)]
+
+
+1820 [('remain', 4), ('upon', 4), ('during', 4), ('employed', 4), ('strongly', 4), ('conveyed', 4), ('alone', 4), ('absorbed', 4), ('communicated', 4), ('having', 4)]
+
+
+1821 [('become', 4), ('without', 4), ('secreted', 4), ('brought', 4), ('becoming', 4), ('inert', 4), ('acting', 4), ('specific', 4), ('through', 4), ('equally', 4)]
+
+
+1822 [('seems', 4), ('itself', 4), ('upon', 4), ('existed', 4), ('secreted', 4), ('now', 4), ('maintains', 4), ('took', 4), ('besides', 4), ('taking', 4)]
+
+
+1823 [('seems', 4), ('upon', 4), ('itself', 4), ('secreted', 4), ('maintains', 4), ('rapidly', 4), ('besides', 4), ('engendered', 4), ('taking', 4), ('ab', 4)]
+
+
+1824 [('de', 6), ('being', 4), ('made', 4), ('seems', 4), ('upon', 4), ('remains', 4), ('circulates', 4), ('secreted', 4), ('employed', 4), ('maintains', 4)]
+
+
+1825 [('being', 4), ('immediately', 4), ('seems', 4), ('capable', 4), ('until', 4), ('existed', 4), ('attacks', 4), ('de', 4), ('introduced', 4), ('absorbed', 4)]
+
+
+1826 [('de', 10), ('developed', 4), ('being', 4), ('becomes', 4), ('rubbed', 4), ('introduced', 4), ('having', 4), ('following', 4), ('taken', 4), ('probably', 4)]
+
+
+1827 [('pour', 4), ('giving', 4), ('thus', 4), ('itself', 4), ('those', 4), ('during', 4), ('de', 4), ('took', 4), ('furnished', 4), ('transmitted', 4)]
+
+
+1828 [('undergoes', 4), ('upon', 4), ('secreted', 4), ('habe', 4), ('through', 4), ('probably', 4), ('even', 4), ('out', 4), ('suum', 4), ('generated', 4)]
+
+
+1829 [('secretion', 4), ('made', 4), ('seems', 4), ('itself', 4), ('upon', 4), ('more', 4), ('secreted', 4), ('acts', 4), ('maintains', 4), ('communicated', 4)]
+
+
+1830 [('habent', 4), ('upon', 4), ('serpentibus', 4), ('deposited', 4), ('having', 4), ('taken', 4), ('more', 4), ('within', 4), ('being', 4), (':_.', 2)]
+
+
+1831 [('assumes', 8), ('taken', 8), ('secreted', 4), ('still', 4), ('serpentibus', 4), ('occasionally', 4), ('during', 4), ('existed', 4), ('contained', 4), ('preserved', 4)]
+
+
+1832 [('being', 4), ('present', 4), ('extends', 4), ('appeared', 4), ('contained', 4), ('without', 4), ('introduced', 4), ('having', 4), ('communicated', 4), ('seemed', 4)]
+
+
+1833 [('being', 4), ('est', 4), ('present', 4), ('produced', 4), ('exists', 4), ('e', 4), ('acted', 4), ('communicated', 4), ('completely', 4), ('produces', 4)]
+
+
+1834 [('collected', 4), ('thus', 4), ('seems', 4), ('entering', 4), ('primarily', 4), ('originating', 4), ('acts', 4), ('residing', 4), ('taken', 4), ('much', 4)]
+
+
+1835 [('resides', 4), ('capable', 4), ('continues', 4), ('without', 4), ('introduced', 4), ('acting', 4), ('inserted', 4), ('causes', 4), ('obtained', 4), ('takes', 4)]
+
+
+1836 [('being', 4), ('now', 4), ('made', 4), ('seems', 4), ('undergoes', 4), ('upon', 4), ('remains', 4), ('infect', 4), ('deposited', 4), ('operates', 4)]
+
+
+1837 [('e', 6), ('still', 4), ('--', 4), ('gave', 4), ('seems', 4), ('whatever', 4), ('acted', 4), ('remaining', 4), ('--_.', 4), ('having', 4)]
+
+
+1838 [('caused', 4), ('thus', 4), ('capable', 4), ('discovered', 4), ('more', 4), ('employed', 4), ('hunting', 4), ('introduced', 4), ('ceases', 4), ('took', 4)]
+
+
+1839 [('itself', 8), ('received', 8), ('thus', 4), ('seems', 4), ('capable', 4), ('transmitted', 4), ('peculiar', 4), ('circulated', 4), ('alone', 4), ('introduced', 4)]
+
+
+1840 [('received', 8), ('itself', 8), ('thus', 4), ('gradually', 4), ('seems', 4), ('capable', 4), ('proved', 4), ('upon', 4), ('forms', 4), ('peculiar', 4)]
+
+
+1841 [('induces', 4), ('seems', 4), ('upon', 4), ('infecting', 4), ('appeared', 4), ('employed', 4), ('introduced', 4), ('acting', 4), ('exhibits', 4), ('remained', 4)]
+
+
+1842 [('before', 8), ('generated', 8), ('being', 4), ('capable', 4), ('upon', 4), ('remains', 4), ('continues', 4), ('without', 4), ('loses', 4), ('ought', 4)]
+
+
+1843 [('acts', 6), ('being', 4), ('capable', 4), ('upon', 4), ('modifies', 4), ('having', 4), ('thereby', 4), ('usually', 4), ('o', 4), ('rests', 4)]
+
+
+1844 [('thus', 4), ('est', 4), ('now', 4), ('obtained', 4), ('communicated', 4), ('transmitted', 4), ('within', 4), ('along', 4), ('infused', 4), ('still', 4)]
+
+
+1845 [('being', 4), ('thus', 4), ('upon', 4), ('end', 4), ('now', 4), ('absorbed', 4), ('communicated', 4), ('takes', 4), ('along', 4), ('itself', 4)]
+
+
+1846 [('without', 4), ('introduced', 4), ('communicated', 4), ('within', 4), ('loses', 4), ('being', 4), ('along', 4), ('composed', 4), ('mainly', 4), ('coming', 4)]
+
+
+1847 [('already', 4), ('spreads', 4), ('operates', 4), ('operating', 4), ("'", 4), ('thus', 4), ('exists', 4), ('introduced', 4), ('absorbed', 4), ('met', 4)]
+
+
+1848 [('secreted', 4), ('happens', 4), ('resides', 4), ('capable', 4), ('upon', 4), ('take', 4), ('without', 4), ('three', 4), ('introduced', 4), ('acting', 4)]
+
+
+1849 [('being', 4), ('spreads', 4), ('remains', 4), ('circulates', 4), ('chemically', 4), ('exists', 4), ('alone', 4), ('introduced', 4), ('absorbed', 4), ('took', 4)]
+
+
+1850 [('being', 4), ('induces', 4), ('resides', 4), ('seems', 4), ('continues', 4), ('without', 4), ('invariably', 4), ('introduced', 4), ('acting', 4), ('communicated', 4)]
+
+
+1851 [('instilled', 4), ('still', 4), ('spreads', 4), ('operates', 4), ('seems', 4), ('capable', 4), ('upon', 4), ('fall', 4), ('secreted', 4), ('thus', 4)]
+
+
+1852 [('consumed', 4), ('induces', 4), ('spreads', 4), ('works', 4), ('seems', 4), ('upon', 4), ('continues', 4), ('thereby', 4), ('passes', 4), ('without', 4)]
+
+
+1853 [('acts', 6), ('resides', 4), ('capable', 4), ('proved', 4), ('upon', 4), ('without', 4), ('having', 4), ('obtained', 4), ('completely', 4), ('being', 4)]
+
+
+1854 [('combined', 4), ('spreads', 4), ('passing', 4), ('capable', 4), ('proved', 4), ('upon', 4), ('without', 4), ('deposited', 4), ('introduced', 4), ('having', 4)]
+
+
+1855 [('being', 4), ('already', 4), ('sooner', 4), ('seems', 4), ('upon', 4), ('employed', 4), ('without', 4), ('communicated', 4), ('mingled', 4), ('loses', 4)]
+
+
+1856 [('capable', 8), ('being', 4), ('still', 4), ('spreads', 4), ('est', 4), ('manifests', 4), ('produced', 4), ('acted', 4), ('contained', 4), ('infects', 4)]
+
+
+1857 [('received', 8), ('itself', 8), ('spread', 6), ('thus', 4), ('capable', 4), ('upon', 4), ('without', 4), ('introduced', 4), ('within', 4), ('completely', 4)]
+
+
+1858 [('acts', 6), ('thus', 4), ('passing', 4), ('capable', 4), ('proved', 4), ('employed', 4), ('without', 4), ('introduced', 4), ('having', 4), ('inserted', 4)]
+
+
+1859 [('acts', 6), ('combined', 4), ('resides', 4), ('passing', 4), ('capable', 4), ('upon', 4), ('without', 4), ('having', 4), ('inserted', 4), ('being', 4)]
+
+
+1860 [('acts', 6), ('newly', 4), ('thus', 4), ('seems', 4), ('capable', 4), ('proved', 4), ('fixes', 4), ('inoculated', 4), ('peculiar', 4), ('without', 4)]
+
+
+1861 [('enters', 8), ('proved', 4), ('upon', 4), ('passes', 4), ('without', 4), ('alone', 4), ('introduced', 4), ('inserted', 4), ('communicated', 4), ('make', 4)]
+
+
+1862 [('--_.', 6), ('--', 6), ('five', 4), ('upon', 4), ('presents', 4), ('without', 4), ('habe', 4), ('introduced', 4), ('having', 4), ('communicated', 4)]
+
+
+1863 [('diseases', 8), ('ceased', 4), ('lost', 4), ('thus', 4), ('est', 4), ('seems', 4), ('upon', 4), ('introduced', 4), ('pollution', 4), ('took', 4)]
+
+
+1864 [('upon', 8), ('ceased', 4), ('lost', 4), ('thus', 4), ('reappears', 4), ('capable', 4), ('proved', 4), ('employed', 4), ('greatly', 4), ('introduced', 4)]
+
+
+1865 [('acts', 6), ('combined', 4), ('thus', 4), ('passing', 4), ('capable', 4), ('upon', 4), ('without', 4), ('deposited', 4), ('introduced', 4), ('within', 4)]
+
+
+1866 [('taken', 8), ('ceased', 4), ('lost', 4), ('generated', 4), ('gave', 4), ('seems', 4), ('five', 4), ('upon', 4), ('affect', 4), ('transmitted', 4)]
+
+
+1867 [('remain', 4), ('develop', 4), ('thus', 4), ('gradually', 4), ('seems', 4), ('capable', 4), ('already', 4), ('continues', 4), ('appeared', 4), ('introduced', 4)]
+
+
+1868 [('upon', 8), ('becomes', 8), ('being', 8), ('taken', 8), ('introduced', 8), ('undergoes', 8), ('itself', 8), ('produces', 8), ('--_.', 6), ('--', 6)]
+
+
+1869 [('enters', 8), ('taken', 8), ('once', 6), ('theory', 4), ('thus', 4), ('passing', 4), ('seems', 4), ('happens', 4), ('gradually', 4), ('action', 4)]
+
+
+1870 [('employed', 8), ('being', 8), ('through', 8), ('enters', 8), ('taken', 8), ('spreads', 4), ('proved', 4), ('upon', 4), ('--_.', 4), ('introduced', 4)]
+
+
+1871 [('more', 6), ('occurs', 4), ('reproduced', 4), ('capable', 4), ('without', 4), ('introduced', 4), ('within', 4), ('very', 4), ('furnished', 4), ('obtained', 4)]
+
+
+1872 [('within', 8), ('resides', 4), ('passing', 4), ('proved', 4), ('upon', 4), ('exhibited', 4), ('employed', 4), ('without', 4), ('introduced', 4), ('having', 4)]
+
+
+1873 [('received', 8), ('occurs', 4), ('develop', 4), ('resides', 4), ('follows', 4), ('capable', 4), ('already', 4), ('infecting', 4), ('passes', 4), ('spreads', 4)]
+
+
+1874 [('upon', 8), ('happens', 4), ('creates', 4), ('proved', 4), ('action', 4), ('employed', 4), ('without', 4), ('introduced', 4), ('having', 4), ('inserted', 4)]
+
+
+1875 [('gave', 4), ('reach', 4), ('upon', 4), ('appears', 4), ('employed', 4), ('without', 4), ('afflicting', 4), ('introduced', 4), ('having', 4), ('carried', 4)]
+
+
+1876 [('being', 8), ('et', 6), ('resides', 4), ('passing', 4), ('capable', 4), ('upon', 4), ('employed', 4), ('without', 4), ('introduced', 4), ('having', 4)]
+
+
+1877 [('upon', 8), ('taken', 8), ('being', 4), ('diluted', 4), ('regularly', 4), ('seems', 4), ('--', 4), ('more', 4), ('induced', 4), ('without', 4)]
+
+
+1878 [('acts', 6), ('develop', 4), ('happens', 4), ('spreads', 4), ('gave', 4), ('seems', 4), ('upon', 4), ('thus', 4), ('reproduced', 4), ('production', 4)]
+
+
+1879 [('acts', 6), ('thus', 4), ('passing', 4), ('quickly', 4), ('capable', 4), ('proved', 4), ('travels', 4), ('presents', 4), ('without', 4), ('introduced', 4)]
+
+
+1880 [('de', 10), ('being', 8), ('upon', 8), ('first', 6), ('happens', 4), ('thus', 4), ('quickly', 4), ('proved', 4), ('already', 4), ('employed', 4)]
+
+
+1881 [('being', 8), ('enters', 8), ('resides', 4), ('passing', 4), ('proved', 4), ('develop', 4), ('thus', 4), ('circulating', 4), ('introduced', 4), ('having', 4)]
+
+
+1882 [('upon', 12), ('being', 8), ('introduced', 8), ('obtained', 8), ('contained', 8), ('modified', 8), ('seems', 8), ('taken', 8), ('--_.', 6), ('--', 6)]
+
+
+1883 [('introduced', 8), ('upon', 8), ('seems', 8), ('thus', 8), ('exists', 8), ('evolution', 8), ('travels', 6), ('acts', 6), ('--_.', 6), ('et', 6)]
+
+
+1884 [('upon', 8), ('itself', 8), ('produced', 8), ('being', 8), ('thus', 8), ('taken', 8), ('de', 6), ('lost', 4), ('resides', 4), ('primarily', 4)]
+
+
+1885 [('derived', 12), ('used', 12), ('taken', 12), ('et', 10), ('introduced', 8), ('upon', 8), ('through', 8), ('being', 8), ('itself', 8), ('--_.', 6)]
+
+
+1886 [('employed', 8), ('being', 8), ('--_.', 8), ('--', 8), ('taken', 8), ('introduced', 8), ('through', 8), ('derived', 8), ('acts', 6), ('first', 6)]
+
+
+1887 [('through', 8), ('used', 8), ('left', 8), ('injected', 8), ('instead', 8), ('showed', 8), ('taken', 8), ('lost', 4), ('offered', 4), ('spreads', 4)]
+
+
+1888 [('upon', 8), ('obtained', 8), ('being', 8), ('enters', 8), ('derived', 8), ('used', 8), ('itself', 8), ('acts', 6), ('once', 6), ('happens', 4)]
+
+
+1889 [('upon', 8), ('through', 8), ('itself', 8), ('failed', 8), ('being', 8), ('taken', 8), ('first', 6), ('--_.', 6), (')_.', 6), ('--', 6)]
+
+
+1890 [('upon', 8), ('introduced', 8), ('through', 8), ('possessing', 8), ('weakened', 8), ('enters', 8), ('used', 8), ('injected', 8), ('being', 8), ('taken', 8)]
+
+
+1891 [('suitable', 8), ('taken', 8), ('resides', 4), ('proved', 4), ('upon', 4), ('constitutes', 4), ('spreads', 4), ('experimentally', 4), ('introduced', 4), ('ceases', 4)]
+
+
+1892 [('upon', 8), ('being', 8), ('made', 8), ('becomes', 8), ('received', 8), ('taken', 8), ('through', 8), ('used', 8), ('prepared', 8), ('acts', 6)]
+
+
+1893 [('obtained', 8), ('being', 8), ('"_.', 8), ('used', 8), ('"', 8), ('taken', 8), ('acts', 6), ('once', 6), ('de', 6), ('spreads', 4)]
+
+
+1894 [('obtained', 12), ('upon', 8), ('used', 8), ('taken', 8), ('gains', 6), ('acts', 6), ('lost', 4), ('thus', 4), ('makes', 4), ('capable', 4)]
+
+
+1895 [('obtained', 12), ('suitable', 8), ('de', 8), ('becomes', 8), ('develop', 8), ('produces', 8), ('until', 8), ('taken', 8), ('introduced', 8), ('through', 8)]
+
+
+1896 [('obtained', 12), ('upon', 8), ('being', 8), ('through', 8), ('used', 8), ('acts', 6), ('"_.', 6), ('"', 6), ('resides', 4), ('gave', 4)]
+
+
+1897 [('upon', 8), ('obtained', 8), ('being', 8), ('gains', 6), ('thus', 4), ('passing', 4), ('capable', 4), ('proved', 4), ('discovered', 4), ('employed', 4)]
+
+
+1898 [('through', 12), ('fixe', 12), ('upon', 8), ('obtained', 8), ('being', 8), ('causes', 8), ('still', 8), ('taken', 8), ('introduced', 8), ('used', 8)]
+
+
+1899 [('through', 8), ('gains', 6), ('spreads', 4), ('purified', 4), ('makes', 4), ('capable', 4), ('proved', 4), ('upon', 4), ('breaks', 4), ('stimulate', 4)]
+
+
+1900 [('fixe', 12), ('diseases', 12), ('gains', 10), ('upon', 8), ('obtained', 8), ('being', 8), ('through', 8), ('enters', 8), ('very', 8), ('used', 8)]
+
+
+1901 [('suitable', 8), ('obtained', 8), ('being', 8), ('taken', 8), ('introduced', 8), ('through', 8), ('itself', 8), ('derived', 8), ('used', 8), ('et', 8)]
+
+
+1902 [('runs', 8), ('through', 8), ('itself', 8), ('enters', 8), ('derived', 8), ('--_.', 6), ('--', 6), ('infects', 6), ('out', 6), ('spreads', 6)]
+
+
+1903 [('attenuated', 12), ('fixe', 12), ('de', 11), ('-', 8), ('obtained', 8), ('being', 8), ('"_.', 8), ('-_.', 8), ('exists', 8), ('instead', 8)]
+
+
+1904 [('through', 8), ('itself', 8), ('taken', 8), ('fixe', 6), ('de', 6), ('lost', 4), ('spreads', 4), ('gave', 4), ('capable', 4), ('upon', 4)]
+
+
+1905 [('fixe', 14), ('obtained', 8), ('becomes', 8), ('taken', 8), ('through', 8), ('itself', 8), ('used', 8), ('whose', 8), ('--_.', 6), ('gains', 6)]
+
+
+1906 [('fixe', 14), ('upon', 8), ('obtained', 8), ('being', 8), ('through', 8), ('itself', 8), ('used', 8), ('appear', 8), ('--_.', 6), ('--', 6)]
+
+
+1907 [('remains', 12), ('fixe', 12), ('obtained', 8), ('being', 8), ('becomes', 8), ('taken', 8), ('through', 8), ('itself', 8), ('contained', 8), ('derived', 8)]
+
+
+1908 [('obtained', 12), ('abortion', 12), ('fixe', 10), ('being', 8), ('retains', 8), ('becomes', 8), ('throughout', 8), ('infection', 8), ('introduced', 8), ('through', 8)]
+
+
+1909 [('fixe', 14), ('through', 8), ('contained', 8), ('enters', 8), ('being', 8), ('acts', 6), ('gains', 6), ('"', 6), ('"_.', 6), ('newly', 4)]
+
+
+1910 [('fixe', 14), ('taken', 12), ('--', 10), ('--_.', 10), ('upon', 8), ('employed', 8), ('obtained', 8), ('becomes', 8), ('being', 8), ('before', 8)]
+
+
+1911 [('fixe', 14), ('obtained', 12), ('appears', 8), ('retains', 8), ('injected', 8), ('exists', 8), ('taken', 8), ('probably', 8), ('passed', 8), ('being', 8)]
+
+
+1912 [('fixe', 18), ('--_.', 8), ('obtained', 8), ('retains', 8), ('becomes', 8), ('reaches', 8), ('inoculated', 8), ('attenuated', 8), ('carriers', 8), ('being', 8)]
+
+
+1913 [('fixe', 14), ('obtained', 12), ('attenuated', 12), ('taken', 12), ('used', 12), ('--_.', 10), ('--', 10), ('upon', 8), ('appears', 8), ('becomes', 8)]
+
+
+1914 [('fixe', 20), ('obtained', 12), ('blood', 12), ('used', 12), ('upon', 8), ('without', 8), ('having', 8), ('causes', 8), ('retains', 8), ('shall', 8)]
+
+
+1915 [('fixe', 14), ('obtained', 8), ('enters', 8), ('--_.', 8), ('during', 8), ('--', 8), ('being', 8), (')', 8), ('introduced', 8), ('through', 8)]
+
+
+1916 [('fixe', 14), ('obtained', 12), ('appears', 12), ('being', 12), ('used', 12), ('--_.', 10), ('--', 10), ('causes', 8), ('retains', 8), ('enters', 8)]
+
+
+1917 [('introduced', 12), ('used', 12), ('fixe', 12), (')', 10), (')_.', 10), ('obtained', 8), ('being', 8), ('becomes', 8), ('enters', 8), ('before', 8)]
+
+
+1918 [('fixe', 14), ('obtained', 12), ('through', 12), ('--_.', 8), ('--', 8), ('seems', 8), ('out', 6), ('gains', 6), ('"_.', 6), ('"', 6)]
+
+
+1919 [('fixe', 14), ('used', 12), ('obtained', 8), ('--_.', 8), ('--', 8), ('taken', 8), ('infection', 8), ('being', 8), ('through', 8), ('itself', 8)]
+
+
+1920 [('infections', 14), ('fixe', 14), ('infection', 12), ('causing', 12), ('pneumonia', 12), ('Diseases', 10), (')_.', 9), (')', 9), ('obtained', 8), ('appears', 8)]
+
+
+1921 [('obtained', 16), ('used', 12), ('fixe', 12), ('upon', 8), ('--_.', 8), ('appears', 8), ('retains', 8), ('enters', 8), ('"_.', 8), ('subcutaneously', 8)]
+
+
+1922 [('fixe', 14), ('diseases', 12), ('-', 10), ('-_.', 10), ('described', 8), ('having', 8), ('obtained', 8), ('behaved', 8), ('shall', 8), ('--_.', 8)]
+
+
+1923 [('fixe', 14), ('used', 12), ('diseases', 12), ('appears', 8), ('--_.', 8), ('directly', 8), ('obtained', 8), ('carrier', 8), ('generally', 8), ('taken', 8)]
+
+
+1924 [('diseases', 18), ('-', 11), ('-_.', 11), (')_.', 10), ('"_.', 10), ('"', 10), (')', 10), ('having', 8), ('actually', 8), ('through', 8)]
+
+
+1925 [('obtained', 12), ('diseases', 12), ('appears', 8), ('produced', 8), ('inoculated', 8), ('within', 8), ('against', 8), ('theory', 8), ('through', 8), ('active', 8)]
+
+
+1926 [('diseases', 22), ('carriers', 12), ('used', 12), ('appears', 8), ('"_.', 8), ('passed', 8), ('directly', 8), ('distributed', 8), (':_.', 8), ('Diseases', 8)]
+
+
+1927 [('diseases', 20), ('used', 16), ('fixe', 14), ('causing', 12), ('Diseases', 10), ('gave', 8), ('upon', 8), ('employed', 8), ('-', 8), ('obtained', 8)]
+
+
+1928 [('diseases', 20), ('through', 16), ('disease', 16), ('obtained', 12), ('Diseases', 12), ('used', 12), ('out', 10), ('Disease', 10), ('"_.', 10), ('spread', 10)]
+
+
+1929 [('diseases', 26), ('III', 18), ('used', 16), ('fixe', 14), ('obtained', 12), ('within', 12), ('disease', 12), ('DNA', 12), ('causing', 12), ('taken', 12)]
+
+
+1930 [('diseases', 22), ('obtained', 16), ('de', 14), ('concentration', 12), ('cause', 12), ('derived', 12), ('infection', 12), ('causing', 12), (')_.', 12), (')', 12)]
+
+
+1931 [('diseases', 20), ('Diseases', 16), ('infection', 16), ('Disease', 16), ('fixe', 14), ('theory', 12), ('--_.', 12), ('through', 12), ('disease', 12), ('causing', 12)]
+
+
+1932 [('diseases', 22), ('obtained', 12), ('being', 12), ('infections', 12), ('treated', 12), ('causing', 12), ('contained', 12), ('present', 12), ('Diseases', 10), ('disease', 10)]
+
+
+1933 [('diseases', 26), ('through', 16), ('used', 16), ('strain', 15), ('theory', 12), ('infections', 12), ('within', 12), ('disease', 12), ('causing', 12), ('--_.', 12)]
+
+
+1934 [('diseases', 20), ('III', 16), ('fixe', 14), ('vary', 12), ('produce', 12), ('isolated', 12), ('Diseases', 12), ('theory', 12), ('cause', 12), ('particles', 12)]
+
+
+1935 [('disease', 22), ('diseases', 22), ('obtained', 16), ('through', 16), ('within', 16), ('de', 16), ('causing', 16), ('used', 16), ('X', 14), ('Disease', 13)]
+
+
+1936 [('diseases', 20), ('disease', 17), ('de', 16), ('appears', 12), ('appear', 12), ('isolated', 12), ('Diseases', 12), ('bodies', 12), ('material', 12), ('used', 12)]
+
+
+1937 [('X', 28), ('1', 23), ('diseases', 22), ('causing', 20), ('used', 20), ('1_NUM', 19), ('particles', 18), ('III', 18), ('Y', 18), ('3', 17)]
+
+
+1938 [('diseases', 22), ('proteins', 18), ('appears', 16), ('disease', 16), ('present', 16), ('used', 16), ('Diseases', 14), ('--', 14), ('--_.', 14), ('-', 12)]
+
+
+1939 [('diseases', 24), ('disease', 18), ('particles', 18), ('infections', 18), ('proteins', 17), ('without', 16), ('transmitted', 16), ('appear', 16), ('Diseases', 16), ('causing', 16)]
+
+
+1940 [('diseases', 24), ('grown', 20), ('fixe', 20), ('disease', 18), ('III', 18), ('particles', 18), ('present', 18), ('transmitted', 16), ('appear', 16), ('produced', 16)]
+
+
+1941 [('diseases', 26), ('infections', 22), ('disease', 16), ('protein', 16), ('Diseases', 14), ('proteins', 14), ('present', 14), ('without', 12), ('-', 12), ('strains', 12)]
+
+
+1942 [('diseases', 26), ('cause', 20), ('spread', 20), ('infection', 18), ('particles', 18), ('within', 16), ('transmitted', 16), ('disease', 16), ('causing', 16), ('isolates', 16)]
+
+
+1943 [('diseases', 26), ('disease', 22), ('present', 21), ('transmitted', 20), ('causing', 20), ('infections', 20), ('encephalitis', 18), ('content', 18), ('show', 18), ('pneumonia', 18)]
+
+
+1944 [('diseases', 22), ('particles', 18), ('-', 17), ('-_.', 17), ('obtained', 16), ('appears', 16), ('infection', 16), ('disease', 16), ('causing', 16), ('B', 16)]
+
+
+1945 [('infections', 22), ('diseases', 22), ('causing', 20), ('"_.', 20), ('X', 20), ('"', 20), ('Y', 18), ('infection', 16), ('appear', 16), ('Diseases', 16)]
+
+
+1946 [('infection', 22), ('diseases', 22), ('present', 21), ('disease', 20), ('infections', 20), ('causing', 18), ('particles', 18), ('differ', 16), ('under', 16), ('being', 16)]
+
+
+1947 [('diseases', 22), ('infections', 22), ('present', 21), ('cause', 20), ('causing', 20), ('disease', 18), ('proteins', 18), ('particles', 18), ('X', 18), ('encephalitis', 16)]
+
+
+1948 [('diseases', 30), ('isolated', 26), ('X', 26), ('B', 23), ('present', 22), ('particles', 22), ('infection', 20), ('disease', 20), ('causing', 20), ('known', 20)]
+
+
+1949 [('X', 28), ('diseases', 26), ('transmitted', 24), ('causing', 24), ('particles', 24), ('infections', 22), ('pneumonia', 22), ('present', 22), ('disease', 20), ('isolated', 20)]
+
+
+1950 [('X', 30), ('diseases', 26), ('particles', 26), ('infections', 22), ('show', 22), ('Y', 22), ('content', 21), ('transmitted', 20), ('Diseases', 20), ('disease', 20)]
+
+
+1951 [('X', 36), ('diseases', 26), ('present', 25), ('causing', 24), ('spread', 23), ('infection', 20), ('infections', 20), ('such', 20), ('disease', 18), ('particles', 18)]
+
+
+1952 [('X', 28), ('diseases', 26), ('causing', 22), ('particles', 22), ('present', 22), ('cause', 21), ('disease', 20), ('infection', 20), ('isolated', 20), ('infections', 20)]
+
+
+1953 [('X', 30), ('diseases', 30), ('spread', 29), ('particles', 28), ('present', 27), ('Y', 26), ('through', 24), ('causing', 24), ('isolated', 24), ('neutralization', 23)]
+
+
+1954 [('X', 36), ('particles', 28), ('causing', 24), ('isolated', 24), ('infections', 24), ('diseases', 22), ('infection', 22), ('Y', 22), ('pneumonia', 22), ('within', 20)]
+
+
+1955 [('particles', 30), ('present', 29), ('diseases', 28), ('isolated', 26), ('III', 26), ('infection', 24), ('pneumonia', 24), ('infections', 22), ('responsible', 20), ('causing', 20)]
+
+
+1956 [('diseases', 36), ('particles', 30), ('X', 28), ('isolated', 26), ('S', 26), ('disease', 24), ('pneumonia', 24), ('used', 24), ('attack', 22), ('Diseases', 22)]
+
+
+1957 [('X', 36), ('causing', 32), ('Y', 32), ('disease', 30), ('diseases', 30), ('particles', 26), ('isolated', 25), ('spread', 25), ('strains', 24), ('infection', 24)]
+
+
+1958 [('diseases', 32), ('X', 28), ('particles', 28), ('within', 24), ('cause', 24), ('usually', 24), ('neutralization', 23), ('pneumonia', 23), ('Virus', 22), ('disease', 22)]
+
+
+1959 [('particles', 36), ('present', 31), ('X', 30), ('diseases', 28), ('strains', 27), ('isolated', 24), ('infections', 24), ('pneumonia', 24), ('"_.', 24), ('"', 24)]
+
+
+1960 [('Type', 34), ('isolated', 32), ('diseases', 32), ('causing', 32), ('present', 32), ('particles', 32), ('X', 28), ('B', 28), ('disease', 26), ('spread', 26)]
+
+
+1961 [('particles', 42), ('diseases', 34), ('isolated', 32), ('present', 31), ('antigen', 27), ('associated', 26), ('disease', 26), ('show', 26), ('cause', 25), ('causing', 24)]
+
+
+1962 [('particles', 42), ('diseases', 38), ('X', 34), ('B', 33), ('isolated', 31), ('causing', 28), ('antigen', 28), ('present', 28), ('Virus', 28), ('infection', 26)]
+
+
+1963 [('particles', 42), ('diseases', 30), ('isolated', 28), ('present', 27), ('associated', 26), ('strains', 26), ('within', 24), ('causing', 24), ('RNA', 24), ('recovered', 24)]
+
+
+1964 [('particles', 44), ('RNA', 40), ('isolated', 38), ('diseases', 38), ('X', 36), ('present', 33), ('B', 30), ('Y', 29), ('Group', 28), ('used', 28)]
+
+
+1965 [('particles', 42), ('present', 35), ('isolated', 34), ('diseases', 34), ('RNA', 32), ('antigen', 30), ('infection', 28), ('Virus', 28), ('transmitted', 28), ('such', 28)]
+
+
+1966 [('RNA', 40), ('particles', 40), ('diseases', 36), ('isolated', 28), ('causing', 28), ('X', 28), ('disease', 26), ('cause', 25), ('associated', 24), ('infection', 24)]
+
+
+1967 [('isolated', 42), ('particles', 42), ('present', 39), ('RNA', 38), ('infection', 30), ('diseases', 30), ('X', 30), ('B', 29), ('causing', 28), ('spread', 28)]
+
+
+1968 [('RNA', 48), ('isolated', 44), ('particles', 44), ('diseases', 36), ('X', 36), ('present', 34), ('infection', 32), ('de', 31), ('particle', 30), ('spread', 29)]
+
+
+1969 [('particles', 48), ('RNA', 46), ('isolated', 38), ('diseases', 36), ('DNA', 34), ('X', 32), ('infection', 30), ('B', 30), ('Virus', 30), ('transmitted', 28)]
+
+
+1970 [('RNA', 49), ('particles', 46), ('diseases', 42), ('present', 37), ('isolated', 36), ('infection', 32), ('disease', 30), ('spread', 30), ('X', 30), ('associated', 28)]
+
+
+1971 [('RNA', 55), ('particles', 48), ('diseases', 38), ('isolated', 34), ('infection', 32), ('present', 32), ('associated', 30), ('Virus', 30), ('cause', 29), ('causing', 28)]
+
+
+1972 [('RNA', 56), ('particles', 50), ('isolated', 36), ('diseases', 36), ('infections', 32), ('present', 32), ('grown', 32), ('infection', 30), ('associated', 30), ('disease', 30)]
+
+
+1973 [('RNA', 54), ('particles', 50), ('Virus', 41), ('isolated', 40), ('diseases', 40), ('causing', 36), ('group', 36), ('DNA', 36), ('present', 34), ('cells', 34)]
+
+
+1974 [('RNA', 59), ('particles', 54), ('diseases', 46), ('antigen', 35), ('X', 34), ('DNA', 34), ('isolated', 32), ('disease', 32), ('causing', 32), ('spread', 31)]
+
+
+1975 [('RNA', 50), ('particles', 48), ('antigen', 41), ('infections', 36), ('diseases', 34), ('X', 34), ('isolated', 32), ('Virus', 32), ('B', 31), ('infection', 30)]
+
+
+1976 [('RNA', 55), ('particles', 50), ('isolated', 42), ('antigen', 39), ('diseases', 36), ('Virus', 36), ('spread', 35), ('causing', 34), ('DNA', 34), ('infections', 34)]
+
+
+1977 [('particles', 50), ('RNA', 49), ('X', 38), ('DNA', 38), ('antigen', 37), ('isolated', 32), ('infection', 32), ('diseases', 32), ('causing', 32), ('Virus', 32)]
+
+
+1978 [('particles', 48), ('RNA', 46), ('diseases', 40), ('X', 36), ('causing', 36), ('present', 36), ('antigen', 35), ('isolated', 34), ('DNA', 34), ('cause', 33)]
+
+
+1979 [('RNA', 57), ('particles', 54), ('antigen', 37), ('isolated', 36), ('associated', 36), ('diseases', 34), ('infections', 34), ('Virus', 34), ('DNA', 34), ('present', 33)]
+
+
+1980 [('RNA', 58), ('particles', 54), ('antigen', 48), ('DNA', 44), ('Type', 41), ('isolated', 40), ('present', 39), ('associated', 34), ('cells', 34), ('Infection', 33)]
+
+
+1981 [('RNA', 52), ('particles', 50), ('diseases', 44), ('isolated', 42), ('present', 38), ('associated', 36), ('disease', 36), ('causing', 36), ('B', 36), ('antigen', 36)]
+
+
+1982 [('RNA', 54), ('particles', 52), ('isolated', 40), ('associated', 40), ('antigen', 39), ('diseases', 38), ('cells', 38), ('DNA', 38), ('causing', 36), ('Type', 36)]
+
+
+1983 [('RNA', 57), ('particles', 48), ('isolated', 38), ('Type', 38), ('present', 38), ('DNA', 38), ('associated', 36), ('causing', 36), ('infection', 36), ('X', 34)]
+
+
+1984 [('RNA', 57), ('particles', 50), ('isolated', 42), ('Type', 39), ('associated', 38), ('DNA', 38), ('causing', 36), ('antigen', 36), ('Virus', 36), ('present', 35)]
+
+
+1985 [('RNA', 64), ('particles', 56), ('isolated', 42), ('associated', 42), ('Type', 42), ('antigen', 41), ('present', 40), ('DNA', 40), ('spread', 39), ('diseases', 38)]
+
+
+1986 [('particles', 50), ('antigen', 46), ('RNA', 44), ('present', 41), ('Type', 40), ('spread', 40), ('type', 40), ('isolated', 38), ('associated', 36), ('causing', 36)]
+
+
+1987 [('RNA', 57), ('particles', 49), ('Type', 43), ('isolated', 42), ('present', 42), ('antigen', 40), ('associated', 38), ('type', 38), ('spread', 37), ('causing', 36)]
+
+
+1988 [('RNA', 56), ('particles', 48), ('isolated', 44), ('Type', 44), ('present', 44), ('diseases', 40), ('antigen', 40), ('type', 38), ('spread', 36), ('Infection', 36)]
+
+
+1989 [('RNA', 51), ('particles', 48), ('Type', 44), ('isolated', 42), ('type', 42), ('HIV', 39), ('associated', 38), ('antigen', 38), ('present', 37), ('causing', 36)]
+
+
+1990 [('RNA', 62), ('Type', 50), ('present', 45), ('isolated', 44), ('particles', 44), ('antigen', 43), ('HIV', 42), ('type', 42), ('diseases', 40), ('Infection', 40)]
+
+
+1991 [('RNA', 64), ('particles', 50), ('Type', 48), ('isolated', 42), ('diseases', 40), ('type', 40), ('DNA', 40), ('present', 39), ('HIV', 38), ('Infection', 38)]
+
+
+1992 [('RNA', 54), ('Type', 49), ('particles', 48), ('spread', 44), ('Virus', 44), ('HIV', 43), ('isolated', 40), ('associated', 40), ('B', 40), ('Infection', 38)]
+
+
+1993 [('RNA', 60), ('Type', 50), ('particles', 44), ('HIV', 42), ('spread', 42), ('Infection', 42), ('type', 42), ('Virus', 40), ('present', 39), ('isolated', 38)]
+
+
+1994 [('RNA', 58), ('spread', 52), ('HIV', 50), ('Type', 48), ('present', 45), ('Infection', 44), ('Virus', 44), ('particles', 44), ('antigen', 43), ('infection', 42)]
+
+
+1995 [('RNA', 52), ('Type', 46), ('particles', 44), ('HIV', 43), ('type', 42), ('present', 41), ('spread', 39), ('Human', 37), ('causing', 36), ('Infection', 36)]
+
+
+1996 [('RNA', 61), ('particles', 51), ('Type', 48), ('isolated', 42), ('Infection', 42), ('type', 42), ('associated', 40), ('Virus', 40), ('present', 39), ('Hepatitis', 38)]
+
+
+1997 [('RNA', 62), ('Type', 51), ('particles', 50), ('present', 48), ('Human', 43), ('HIV', 42), ('spread', 42), ('Infection', 42), ('isolated', 40), ('Virus', 40)]
+
+
+1998 [('RNA', 60), ('Type', 54), ('particles', 50), ('HIV', 50), ('present', 47), ('type', 42), ('DNA', 42), ('spread', 41), ('associated', 40), ('cause', 40)]
+
+
+1999 [('RNA', 61), ('Type', 48), ('spread', 48), ('particles', 46), ('HIV', 46), ('DNA', 46), ('antigen', 45), ('present', 45), ('Virus', 44), ('Infection', 44)]
+
+
+2000 [('RNA', 62), ('HIV', 51), ('particles', 49), ('spread', 47), ('present', 47), ('Type', 44), ('Hepatitis', 42), ('Virus', 42), ('Human', 41), ('isolated', 40)]
+
+
+2001 [('RNA', 62), ('present', 53), ('spread', 51), ('Type', 48), ('particles', 46), ('HIV', 45), ('isolated', 42), ('infection', 42), ('type', 42), ('cell', 41)]
+
+
+2002 [('RNA', 70), ('Type', 54), ('spread', 50), ('HIV', 47), ('particles', 46), ('present', 45), ('Infection', 44), ('DNA', 44), ('antigen', 43), ('type', 42)]
+
+
+2003 [('RNA', 54), ('Type', 52), ('HIV', 52), ('spread', 48), ('particles', 45), ('Virus', 43), ('Human', 40), ('attack', 40), ('infection', 40), ('Hepatitis', 40)]
+
+
+2004 [('RNA', 64), ('spread', 56), ('HIV', 55), ('particles', 52), ('Type', 49), ('DNA', 48), ('present', 47), ('Virus', 44), ('attack', 43), ('infection', 42)]
+
+
+2005 [('RNA', 62), ('Type', 56), ('HIV', 54), ('spread', 50), ('present', 47), ('Virus', 46), ('particles', 45), ('Infection', 44), ('attack', 43), ('infection', 42)]
+
+
+2006 [('RNA', 68), ('HIV', 54), ('spread', 51), ('Type', 51), ('present', 51), ('particles', 48), ('infection', 46), ('Virus', 46), ('Infection', 45), ('type', 42)]
+
+
+2007 [('RNA', 62), ('Type', 55), ('HIV', 51), ('spread', 51), ('present', 48), ('Infection', 46), ('particles', 44), ('Virus', 44), ('Human', 43), ('associated', 42)]
+
+
+2008 [('RNA', 62), ('spread', 56), ('HIV', 48), ('particles', 46), ('present', 45), ('Hepatitis', 44), ('Type', 44), ('Infection', 43), ('type', 42), ('associated', 40)]

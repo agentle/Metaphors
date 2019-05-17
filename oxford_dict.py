@@ -2,8 +2,8 @@ import requests
 import json
 
 # TODO: replace with your own app_id and app_key
-app_id = '1ed9cb40'
-app_key = '8da93db3cf0b498826a3768e850377e9'
+app_id = 'xxxxx'
+app_key = 'xxxxx'
 
 language = 'en'
 word_id = 'software'
